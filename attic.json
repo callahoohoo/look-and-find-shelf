@@ -1,0 +1,165 @@
+{
+ "id": "attic",
+ "name": "Attic",
+ "picture": "attic.png",
+ "about": "Two young explorers and their guide row down a jungle river.",
+ "pen": 2.8,
+ "items": [
+  {
+   "id": "sock",
+   "name": "Sock",
+   "level": 1,
+   "abs": true,
+   "x": 432,
+   "y": 115,
+   "patch": "<path d=\"M466 84L475 100L473 134L466 134Z\"/><path d=\"M396 76L408 68L404 138L393 142Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#F472B6\" d=\"M408 62H466L468 124C468 150 454 168 432 170L406 172C390 172 386 150 398 142L402 134Z\"/><rect class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" x=\"406\" y=\"58\" width=\"62\" height=\"14\" rx=\"4\"/><path class=\"line\" d=\"M404 92H467M404 106H468M468 136Q452 140 452 166M404 146Q412 156 404 170\"/>"
+  },
+  {
+   "id": "skateboard",
+   "name": "Skateboard",
+   "level": 1,
+   "abs": true,
+   "x": 1154,
+   "y": 356,
+   "patch": "<path d=\"M1074 318Q1150 345 1234 314L1236 334Q1150 432 1074 342Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#C084FC\" d=\"M1084 326Q1150 400 1224 322L1226 332Q1150 420 1082 336Z\"/><path class=\"line\" d=\"M1116 370L1120 376M1182 368L1180 374\"/><circle class=\"ink\" style=\"--c:#FACC15\" cx=\"1121\" cy=\"381\" r=\"7\"/><circle class=\"ink\" style=\"--c:#FACC15\" cx=\"1180\" cy=\"379\" r=\"7\"/><circle class=\"dot\" cx=\"1121\" cy=\"381\" r=\"2\"/><circle class=\"dot\" cx=\"1180\" cy=\"379\" r=\"2\"/>"
+  },
+  {
+   "id": "milk",
+   "name": "Milk carton",
+   "level": 1,
+   "abs": true,
+   "x": 1161,
+   "y": 460,
+   "patch": "<path d=\"M1150 402H1173V413H1150Z\"/><path d=\"M1134 484H1141V507H1134Z\"/><path d=\"M1181 484H1188V507H1181Z\"/>",
+   "art": "<rect class=\"ink\" style=\"--c:#BFDBFE\" x=\"1150\" y=\"411\" width=\"22\" height=\"10\" rx=\"2\"/><path class=\"ink\" style=\"--c:#BFDBFE\" d=\"M1140 438L1150 420H1172L1182 438V505H1140Z\"/><path class=\"line\" d=\"M1140 438H1182M1168 438V505M1168 438L1160 420M1140 492H1168\"/><path class=\"ink\" style=\"--c:#60A5FA;stroke-width:calc(var(--w) * .68)\" d=\"M1154 458C1160 466 1162 470 1162 474A8 8 0 0 1 1146 474C1146 470 1148 466 1154 458Z\"/>"
+  },
+  {
+   "id": "icecream",
+   "name": "Ice cream",
+   "level": 1,
+   "abs": true,
+   "x": 947,
+   "y": 562,
+   "patch": "<path d=\"M918 575L976 575L972 610L966 620L918 620Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#F5C16C\" d=\"M918 548L947.5 617L977 548Z\"/><path class=\"line\" d=\"M928.3 572.2L974 554.9M935.7 589.4L966.7 572.2M943.1 606.7L959.3 589.4M966.7 572.2L921 554.9M959.3 589.4L928.3 572.2M951.9 606.7L935.7 589.4\"/><path class=\"ink\" style=\"--c:#F9A8D4\" d=\"M913 552C910 520 930 508 947.5 508C965 508 985 520 982 552C976 548 972 560 965 554C960 562 952 556 947 562C942 556 936 562 930 554C924 560 918 550 913 552Z\"/><path class=\"line\" d=\"M928 528l4 -3M944 520l4 2M960 526l-3 -4M934 542l5 1M956 540l3 -4M970 536l2 -4\"/>"
+  },
+  {
+   "id": "baseball",
+   "name": "Baseball",
+   "level": 1,
+   "abs": true,
+   "x": 58,
+   "y": 570,
+   "patch": "<circle cx=\"58\" cy=\"570\" r=\"54\"/>",
+   "art": "<circle class=\"ink\" style=\"--c:#F3F4F6\" cx=\"58\" cy=\"570\" r=\"52\"/><path class=\"line\" d=\"M28 528Q58 570 28 612M88 528Q58 570 88 612\"/><path class=\"line\" d=\"M33 538l9 -4M38 552l9 -3M41 566l9 -1M41 580l9 1M38 594l9 3M33 606l9 4\"/><path class=\"line\" d=\"M83 538l-9 -4M78 552l-9 -3M75 566l-9 -1M75 580l-9 1M78 594l-9 3M83 606l-9 4\"/>"
+  },
+  {
+   "id": "dartboard",
+   "name": "Dart board",
+   "level": 2,
+   "abs": true,
+   "x": 898,
+   "y": 332,
+   "art": "<circle class=\"ink\" style=\"--c:#F87171\" cx=\"898\" cy=\"332\" r=\"41\"/><path class=\"line\" d=\"M909.0 332.0L939.0 332.0M905.8 339.8L927.0 361.0M898.0 343.0L898.0 373.0M890.2 339.8L869.0 361.0M887.0 332.0L857.0 332.0M890.2 324.2L869.0 303.0M898.0 321.0L898.0 291.0M905.8 324.2L927.0 303.0\"/><circle class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" cx=\"898\" cy=\"332\" r=\"30\"/><path class=\"line\" d=\"M909.0 332.0L928.0 332.0M905.8 339.8L919.2 353.2M898.0 343.0L898.0 362.0M890.2 339.8L876.8 353.2M887.0 332.0L868.0 332.0M890.2 324.2L876.8 310.8M898.0 321.0L898.0 302.0M905.8 324.2L919.2 310.8\"/><circle class=\"ink\" style=\"--c:#4ADE80;stroke-width:calc(var(--w) * .68)\" cx=\"898\" cy=\"332\" r=\"20\"/><circle class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" cx=\"898\" cy=\"332\" r=\"10\"/><circle class=\"dot\" cx=\"898\" cy=\"332\" r=\"4\"/>"
+  },
+  {
+   "id": "medal",
+   "name": "Medal",
+   "level": 2,
+   "abs": true,
+   "x": 804,
+   "y": 606,
+   "patch": "<path d=\"M798 574H820V590H798Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#60A5FA;stroke-width:calc(var(--w) * .68)\" d=\"M792 592L788 574H800L807 590Z\"/><path class=\"ink\" style=\"--c:#F87171;stroke-width:calc(var(--w) * .68)\" d=\"M816 592L820 574H808L801 590Z\"/><ellipse class=\"ink\" style=\"--c:#FACC15\" cx=\"804\" cy=\"612\" rx=\"34\" ry=\"26\" transform=\"rotate(0 804 612)\"/><ellipse class=\"line\" cx=\"804\" cy=\"612\" rx=\"25\" ry=\"18\" transform=\"rotate(0 804 612)\"/><g transform=\"translate(804 612)\"><path class=\"ink\" style=\"--c:#FDE047;stroke-width:calc(var(--w) * .68)\" d=\"M0.0 -11.0L2.9 -4.0L10.5 -3.4L4.8 1.5L6.5 8.9L0.0 5.0L-6.5 8.9L-4.8 1.5L-10.5 -3.4L-2.9 -4.0Z\"/></g>"
+  },
+  {
+   "id": "spatula",
+   "name": "Spatula",
+   "level": 2,
+   "abs": true,
+   "x": 650,
+   "y": 816,
+   "art": "<path class=\"ink\" style=\"--c:#9CA3AF\" d=\"M617 790L635 788L682 838Q662 848 638 843Z\"/><path class=\"line\" d=\"M619 797L637 795M646.4 823.1L655.2 836.5M654.8 817.5L663.6 830.9\"/>"
+  },
+  {
+   "id": "popcorn",
+   "name": "Popcorn",
+   "level": 2,
+   "abs": true,
+   "x": 877,
+   "y": 541,
+   "patch": "<path d=\"M859 504Q861 478 880 477Q888 479 890 485L889 500L866 504Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#93C5FD\" d=\"M854 518H900L895 582H859Z\"/><path class=\"line\" d=\"M866 520L868 580M877 520V580M888 520L886 580\"/><path class=\"ink\" style=\"--c:#F9A8D4\" d=\"M849 522C845 510 858 506 864 508C866 498 888 498 890 508C898 506 911 512 905 522Z\"/><path class=\"line\" d=\"M868 507l3 -3M884 506l3 3M858 516l4 -2M893 514l4 2\"/>"
+  },
+  {
+   "id": "bicycle",
+   "name": "Bicycle",
+   "level": 2,
+   "abs": true,
+   "x": 718,
+   "y": 600,
+   "patch": "<path d=\"M680 576H760V628H680Z\"/>",
+   "art": "<circle class=\"ink\" style=\"--c:#60A5FA\" cx=\"698\" cy=\"610\" r=\"15\"/><circle class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" cx=\"698\" cy=\"610\" r=\"9\"/><circle class=\"dot\" cx=\"698\" cy=\"610\" r=\"2.4\"/><circle class=\"ink\" style=\"--c:#60A5FA\" cx=\"738\" cy=\"612\" r=\"15\"/><circle class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" cx=\"738\" cy=\"612\" r=\"9\"/><circle class=\"dot\" cx=\"738\" cy=\"612\" r=\"2.4\"/><path class=\"line\" d=\"M698 610L712 590H732L738 612M712 590L718 610H698M718 610L732 590M732 590L729 580M723 580H736M712 590L710 583\"/><rect class=\"ink\" style=\"--c:#F87171;stroke-width:calc(var(--w) * .68)\" x=\"704\" y=\"579\" width=\"12\" height=\"5\" rx=\"2\"/>"
+  },
+  {
+   "id": "fishbowl",
+   "name": "Fishbowl",
+   "level": 3,
+   "abs": true,
+   "x": 697,
+   "y": 474,
+   "patch": "<path d=\"M678 446H712V458H678Z\"/><path d=\"M664 466H676V486H664Z\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#BFDBFE\" d=\"M685 456H709C723 466 725 490 710 494H684C669 490 671 466 685 456Z\"/><rect class=\"ink\" style=\"--c:#BFDBFE;stroke-width:calc(var(--w) * .68)\" x=\"682\" y=\"452\" width=\"30\" height=\"6\" rx=\"3\"/><path class=\"line\" d=\"M676 468Q697 474 718 468\"/><path class=\"ink\" style=\"--c:#FB923C;stroke-width:calc(var(--w) * .68)\" d=\"M691 482L684 477V487Z\"/><ellipse class=\"ink\" style=\"--c:#FB923C;stroke-width:calc(var(--w) * .68)\" cx=\"699\" cy=\"482\" rx=\"8\" ry=\"5\" transform=\"rotate(0 699 482)\"/><circle class=\"line\" cx=\"711\" cy=\"474\" r=\"2.5\"/>"
+  },
+  {
+   "id": "snowman",
+   "name": "Snowman",
+   "level": 3,
+   "abs": true,
+   "x": 1091,
+   "y": 436,
+   "patch": "<path d=\"M1069 422H1080V452H1069Z\"/><path d=\"M1102 420H1113V452H1102Z\"/>",
+   "art": "<path class=\"line\" d=\"M1080 444L1071 436M1102 444L1111 436\"/><circle class=\"ink\" style=\"--c:#E0F2FE\" cx=\"1091\" cy=\"448\" r=\"12\"/><circle class=\"ink\" style=\"--c:#E0F2FE\" cx=\"1091\" cy=\"428\" r=\"8\"/><path class=\"ink\" style=\"--c:#4B5563;stroke-width:calc(var(--w) * .68)\" d=\"M1085 420V411H1097V420Z\"/><path class=\"line\" d=\"M1081 420H1101\"/><circle class=\"dot\" cx=\"1088\" cy=\"427\" r=\"1.4\"/><circle class=\"dot\" cx=\"1094\" cy=\"427\" r=\"1.4\"/><path class=\"ink\" style=\"--c:#FB923C;stroke-width:calc(var(--w) * .68)\" d=\"M1091 430L1098 432L1091 433Z\"/><circle class=\"dot\" cx=\"1091\" cy=\"444\" r=\"1.6\"/><circle class=\"dot\" cx=\"1091\" cy=\"452\" r=\"1.6\"/>"
+  },
+  {
+   "id": "stamp",
+   "name": "Stamp",
+   "level": 3,
+   "abs": true,
+   "x": 843,
+   "y": 69,
+   "art": "<path class=\"ink\" style=\"--c:#F9A8D4\" d=\"M823 55q4 3 8 0q4 3 8 0q4 3 8 0q4 3 8 0q4 3 8 0q-3 3.6 0 7.25q-3 3.6 0 7.25q-3 3.6 0 7.25q-3 3.6 0 7.25q-4 -3 -8 0q-4 -3 -8 0q-4 -3 -8 0q-4 -3 -8 0q-4 -3 -8 0q3 -3.6 0 -7.25q3 -3.6 0 -7.25q3 -3.6 0 -7.25q3 -3.6 0 -7.25Z\"/><rect class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" x=\"829\" y=\"61\" width=\"28\" height=\"17\" rx=\"1\"/><path class=\"line\" d=\"M832 75L839 66L845 73L849 68L855 75\"/>"
+  },
+  {
+   "id": "mitten",
+   "name": "Mitten",
+   "level": 3,
+   "abs": true,
+   "x": 165,
+   "y": 262,
+   "art": "<path class=\"ink\" style=\"--c:#F87171\" d=\"M158 262C148 262 145 250 150 246C154 243 158 247 158 251Z\"/><path class=\"ink\" style=\"--c:#F87171\" d=\"M157 272V250C157 236 183 236 183 250V272Z\"/><rect class=\"ink\" style=\"--c:#fff;stroke-width:calc(var(--w) * .68)\" x=\"155\" y=\"271\" width=\"30\" height=\"14\" rx=\"4\"/><path class=\"line\" d=\"M160 278H180M161 258L166 254L171 258L176 254L181 258\"/>"
+  },
+  {
+   "id": "raindrop",
+   "name": "Raindrop",
+   "level": 3,
+   "abs": true,
+   "x": 1096,
+   "y": 191,
+   "patch": "<ellipse cx=\"1096\" cy=\"197\" rx=\"16\" ry=\"15\"/>",
+   "art": "<path class=\"ink\" style=\"--c:#60A5FA\" d=\"M1098 171C1104 182 1109 189 1109 197A13 13 0 0 1 1083 197C1083 189 1092 182 1098 171Z\"/><path class=\"line\" d=\"M1089 200Q1088 192 1092 188\"/>"
+  },
+  {
+   "id": "toaster",
+   "name": "Toaster",
+   "level": 3,
+   "abs": true,
+   "x": 1232,
+   "y": 414,
+   "patch": "<path d=\"M1199 395H1211V435H1199Z\"/><path d=\"M1253 395H1266V435H1253Z\"/><path d=\"M1220 387H1248V401H1220Z\"/>",
+   "art": "<rect class=\"ink\" style=\"--c:#F5C16C;stroke-width:calc(var(--w) * .68)\" x=\"1215\" y=\"396\" width=\"13\" height=\"14\" rx=\"4\"/><rect class=\"ink\" style=\"--c:#F5C16C;stroke-width:calc(var(--w) * .68)\" x=\"1236\" y=\"396\" width=\"13\" height=\"14\" rx=\"4\"/><rect class=\"ink\" style=\"--c:#FCA5A5\" x=\"1209\" y=\"403\" width=\"46\" height=\"30\" rx=\"8\"/><path class=\"line\" d=\"M1217 410V426M1212 428H1252\"/><circle class=\"dot\" cx=\"1244\" cy=\"416\" r=\"2.4\"/>"
+  }
+ ]
+}
